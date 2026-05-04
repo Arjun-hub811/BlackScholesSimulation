@@ -2,7 +2,7 @@
 Black-Scholes Simulation Suite (Java)
 A comprehensive, menu-driven Black-Scholes option pricing simulator written in Java. This project provides analytic pricing, Monte Carlo simulation, implied volatility solving, Greeks computation, and batch CSV processing — all from an interactive command-line interface.
 
-Features
+#Features
 Analytic Black-Scholes Pricing — Closed-form option pricing for European calls/puts, binary calls, and digital puts
 Monte Carlo Simulation — Standard and antithetic variate methods with configurable simulation count and seed
 Multithreaded Monte Carlo — Parallel simulation across multiple threads for faster computation
